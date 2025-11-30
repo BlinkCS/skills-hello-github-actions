@@ -10,7 +10,7 @@ _学习如何创建并运行一个 GitHub Actions 工作流(Workflow)。_
 
 </header>
 
-## Step 5: 触发工作流
+## Step 5: 触发工作流!
 
 _现在你的仓库里已经有一个可以正常运行的工作流程了! :smile:_
 
